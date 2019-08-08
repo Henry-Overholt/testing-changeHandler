@@ -1,0 +1,14 @@
+{
+  "name": "battle-game-jest",
+  "version": "1.0.0",
+  "description": "A simple seed TDD project set up with Jest. There are no other bells or whistles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
